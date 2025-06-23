@@ -2,6 +2,7 @@
 
 A responsive and scalable website built using **React** and **Tailwind CSS**, featuring a dynamic projects section powered by the GitHub API. Designed with a focus on SEO optimization and performance, the site supports diverse content such as blogs, events, and open-source project showcases.
 
+[Open Source Org Website](https://open-source-website.vercel.app/)
 ---
 
 ##  Getting Started
